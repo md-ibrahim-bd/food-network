@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.top-section{
+    padding: 4%;
+    display: flex;
+}
+.top-section p{
+    font-size: 20px;
+}
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.top-img{
+    width: 100%;
+}
+.diet{
+    color: orangered;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.header a{
+    text-decoration: none;
+    padding: 40px 50px;
+    color:darkolivegreen;
+}
+.order-food{
+    text-decoration: none;
+    font-size: 25px;
+    background-image: linear-gradient(tomato,orange);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+/* about section */
+.about-section{
+    padding-top: 80px;
+    padding-left: 40px;
+    display: flex;
+    
+}
+.background{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.me_images{
+    width: 50.2%;
+    margin-left: 20%;
+  }
+  .contact-me-btn{
+    text-decoration: none;
+    font-size: 25px;
+    background-image: linear-gradient(tomato,orange);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+  section{
+    margin-bottom: 100px;
+  }
+  /* my-recipies */
+  .my-recipies{
+    text-align: center;
+  }
+  /* recipie's  */
+  .recipie{
+    height: 550px;
+    width: 35%;
+    text-align: justify;
+    padding-left: 1px;
+    margin-left: 20px;
+    margin-right: 60px;
+    box-shadow: 30px 30px 40px gray;
+    border-radius: 10px;
+  }
+  .recipie img{
+    height: 280px;
+    width: 350px;
+  }
+   /* follower section  */
+   .follower{
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 69%;
+    box-shadow: 2px 2px 15px gray;
+    border-radius: 20px;
+   }
+   .fl-list{
+    width: 30%;
+    padding: 0 40px;
+   }
+   /* footer section  */
+   .orange-color{
+    color: orange;
+   }
+   .footer{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    padding: 50px;
+   }
+
